@@ -8,7 +8,7 @@ If you're working with Android phones powered by Unisoc (formerly Spreadtrum) pr
 
 
 
-## [👉👉 Get SPD Flash Tool For Windows](https://freesoftcr.com/dl)
+## [👉👉 Get SPD Flash Tool For Windows](https://freesoftcr.com/dl/)
 
 
 
